@@ -13,6 +13,8 @@
         <None Remove="sublime_text_logo.png" />
         <None Remove="win_blue.jpg" />
         <Resource Include="win_blue.jpg" />
+        <None Remove="app_icon.png" />
+        <Resource Include="app_icon.png" />
     </ItemGroup>
 
 </Project>

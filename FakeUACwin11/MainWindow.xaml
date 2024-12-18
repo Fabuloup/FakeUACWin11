@@ -47,10 +47,10 @@
 
                 <StackPanel Orientation="Horizontal" Margin="25 10">
                     <Image Source="/app_icon.png" Width="50" Height="50"/>
-                    <TextBlock Text="Sublime Text 3 Setup" Foreground="WhiteSmoke" VerticalAlignment="Center" Margin="10 0" FontSize="20" FontWeight="Normal"/>
+                    <TextBlock Text="Docker Desktop" Foreground="WhiteSmoke" VerticalAlignment="Center" Margin="10 0" FontSize="20" FontWeight="Normal"/>
                 </StackPanel>
 
-                <TextBlock Text="Éditeur vérifié : Sublime HQ Pty Ltd" Margin="20 5 20 0" Foreground="WhiteSmoke" FontSize="14"/>
+                <TextBlock Text="Éditeur vérifié : Docker Inc" Margin="20 5 20 0" Foreground="WhiteSmoke" FontSize="14"/>
                 <TextBlock Text="Origine du fichier : Disque dur sur cet ordinateur" Margin="20 0 20 0" Foreground="WhiteSmoke" FontSize="14"/>
 
                 <TextBlock Text="Afficher plus de détail" Foreground="#0078D7" FontWeight="Bold" Margin="20 20 20 5" FontSize="15"/>
